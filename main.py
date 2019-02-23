@@ -1,5 +1,5 @@
 def main(msg):
-##print a message
+##print a me
     print(msg)
 //add from untitled
 
