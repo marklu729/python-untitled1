@@ -2,8 +2,10 @@ def main(msg):
 ##print a me
     print(msg)
 
-//Add a comment from Untitiled folder
-//modified from Mark folder
+//no longer need comments
+
+def secondary():
+    print("New FUnction")
 
 
 
